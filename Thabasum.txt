@@ -1,1 +1,5 @@
-
+My name is Thabasum and I am an AI enthusiast pursing a degree in AIML.
+I am eager to explore AI techniques and develop my technical skills.
+To put my knowlede into practice, I have started experimenting with projects on google collab.
+I am passionate about harnessing AI techniques to develop technical skills and explore AI courses.
+My goal is to master AI and ML techniques and tools to contribute to innovative solutions.
